@@ -1,0 +1,13 @@
+C:\Users\Hi-Windows-10\source\repos\FormQLBongDa\FormQLBongDa\bin\Debug\FormQLBongDa.exe.config
+C:\Users\Hi-Windows-10\source\repos\FormQLBongDa\FormQLBongDa\bin\Debug\FormQLBongDa.exe
+C:\Users\Hi-Windows-10\source\repos\FormQLBongDa\FormQLBongDa\bin\Debug\FormQLBongDa.pdb
+C:\Users\Hi-Windows-10\source\repos\FormQLBongDa\FormQLBongDa\obj\Debug\FormQLBongDa.csproj.AssemblyReference.cache
+C:\Users\Hi-Windows-10\source\repos\FormQLBongDa\FormQLBongDa\obj\Debug\FormQLBongDa.Form1.resources
+C:\Users\Hi-Windows-10\source\repos\FormQLBongDa\FormQLBongDa\obj\Debug\FormQLBongDa.FormThem.resources
+C:\Users\Hi-Windows-10\source\repos\FormQLBongDa\FormQLBongDa\obj\Debug\FormQLBongDa.Properties.Resources.resources
+C:\Users\Hi-Windows-10\source\repos\FormQLBongDa\FormQLBongDa\obj\Debug\FormQLBongDa.csproj.GenerateResource.cache
+C:\Users\Hi-Windows-10\source\repos\FormQLBongDa\FormQLBongDa\obj\Debug\FormQLBongDa.csproj.CoreCompileInputs.cache
+C:\Users\Hi-Windows-10\source\repos\FormQLBongDa\FormQLBongDa\obj\Debug\FormQLBongDa.exe
+C:\Users\Hi-Windows-10\source\repos\FormQLBongDa\FormQLBongDa\obj\Debug\FormQLBongDa.pdb
+C:\Users\Hi-Windows-10\source\repos\FormQLBongDa\FormQLBongDa\obj\Debug\FormQLBongDa.FormCau2.resources
+C:\Users\Hi-Windows-10\source\repos\FormQLBongDa\FormQLBongDa\obj\Debug\FormQLBongDa.FormMain.resources
